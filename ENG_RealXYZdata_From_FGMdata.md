@@ -63,7 +63,7 @@
 
 ## Procedures to obtain *XYZ* cartesian geomagnetic components from flux-gate magnetometer measures (on Earth\'s observatories)
 
-mr. Michele Di Savino - <michele.disavino@ingv.it>
+mr. Michele Di Savino, <michele.disavino@ingv.it>
 
 <a name="pSummary"></a>
 ## Summary
