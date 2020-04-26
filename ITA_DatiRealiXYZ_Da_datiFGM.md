@@ -65,8 +65,6 @@
 
 sig. Michele Di Savino - <michele.disavino@ingv.it>
 
-INGV \| Istituto Nazionale di Geofisica e Vulcanologia, Sezione Geomagnetismo, Aeronomia e Geofisica Ambientale
-
 <a name="pRiassunto"></a>
 ## Riassunto
 Il Campo Magnetico Terrestre complessivo, scaturisce dalla influenza di effetti multipli non separabili:<BR>variazioni ionosfera, magnetismo dipolo proprio, induzione magnetica del suolo. Esso condiziona notevolmente la vita umana negli apparati e tecnologie civili frequentemente utilizzate; misure magnetiche sono altresì effettuate in contesti non invasivi come la diagnostica medica, la salvaguardia ambientale, la ricerca energetica e mineraria, l’archeologia, eccetera.<BR>
