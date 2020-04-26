@@ -63,7 +63,7 @@
 
 ## Procedure per ottenere componenti geomagnetiche cartesiane *XYZ* da misure magnetometro _flux-gate_ (per osservatori terrestri)
 
-sig. Michele Di Savino, <michele.disavino@ingv.it>
+sig. Michele Di Savino, \<michele.disavino@ingv.it\>
 
 <a name="pRiassunto"></a>
 ## Riassunto
